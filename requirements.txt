@@ -1,0 +1,10 @@
+# Core analysis stack for the agrivoltaic suitability notebook.
+# Versions are unpinned; the notebook was developed against PyTorch 2.11 + CUDA 12.8.
+# For GPU acceleration, install torch from https://pytorch.org matching your CUDA version.
+
+geopandas
+rasterio
+numpy
+scikit-learn
+matplotlib
+torch
