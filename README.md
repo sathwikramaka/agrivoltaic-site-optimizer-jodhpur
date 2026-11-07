@@ -130,7 +130,7 @@ SpatioFarm · Semester 2 project, Indian Institute of Remote Sensing (IIRS-ISRO)
 
 | Member | Links |
 |---|---|
-| **Sathwik Ramaka** — ML and spatial analysis | [LinkedIn](https://www.linkedin.com/in/sathwik-ramaka-1ba40227a/) · [GitHub](https://github.com/sathwikramaka) |
+| **Sathwik Ramaka** — ML and spatial analysis | [LinkedIn](https://www.linkedin.com/in/sathwikramaka/) · [GitHub](https://github.com/sathwikramaka) |
 | **Himanshu Bhanja** | [LinkedIn](https://www.linkedin.com/in/himanshu-bhanja-70362a2bb/) |
 | **Swathi A Patil** | [LinkedIn](https://www.linkedin.com/in/swathi-a-patil-69462b3b1/) · [GitHub](https://github.com/swathipatil-analytics) |
 | **Kadiri Yaswanthi** | [LinkedIn](https://www.linkedin.com/in/kadiri-yaswanthi-9a632b204/) · [GitHub](https://github.com/YASWANTHI2410) |
